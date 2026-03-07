@@ -1,4 +1,4 @@
-<img width="719" height="510" alt="heart_rate_simulation" src="https://github.com/user-attachments/assets/731c19df-b009-4a32-90bf-939b5e635565" />
+<img width="700" height="450" alt="heart_rate_simulation" src="https://github.com/user-attachments/assets/731c19df-b009-4a32-90bf-939b5e635565" />
 
 # Embedded-Heart-Rate-Monitoring-System-with-OLED-Display
 Arduino Nano heart rate monitor using MAX30102 and OLED display
