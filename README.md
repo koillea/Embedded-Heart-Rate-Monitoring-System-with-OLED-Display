@@ -1,4 +1,5 @@
-<img width="733" height="423" alt="heart_rate_kicad_schem" src="https://github.com/user-attachments/assets/2c9f3f26-5305-4dba-b227-ebc986db4c0b" />
+<img width="733" height="423" alt="heart_rate_kicad_schem" src="https://github.com/user-attachments/assets/02a12401-7eba-4486-8319-2602338e2c23" />
+
 
 # Embedded-Heart-Rate-Monitoring-System-with-OLED-Display
 Arduino Nano heart rate monitor using MAX30102 and OLED display
