@@ -9,7 +9,7 @@ Both the sensor and the display communicate with the Arduino through the I²C in
 
 The goal of this project was to design a small embedded system that combines biometric sensing, microcontroller processing, and real-time display output.
 
-Hardware
+Hardware Used:
 - Arduino Nano
 - MAX30102 Pulse Oximeter Sensor
 - SSD1306 OLED Display
