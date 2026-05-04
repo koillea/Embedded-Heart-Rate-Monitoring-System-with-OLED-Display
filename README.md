@@ -17,5 +17,4 @@ Hardware Used:
 - 100nF Capacitor
 - LED
 
-
-
+Simulate it here! https://wokwi.com/projects/457803730824958977
